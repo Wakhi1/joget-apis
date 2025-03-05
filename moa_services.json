@@ -1,0 +1,46 @@
+{
+  "agriculture_services": [
+    {
+      "id": 1,
+      "name": "Land Ownership Registration",
+      "description": "Official registration of farm land ownership with government authorities.",
+      "required_documents": ["Title Deed", "Owner's ID", "Survey Map"]
+    },
+    {
+      "id": 2,
+      "name": "Land Lease Registration",
+      "description": "Registration of leased farm land for agricultural purposes.",
+      "required_documents": ["Lease Agreement", "Tenant's ID", "Landowner's ID"]
+    },
+    {
+      "id": 3,
+      "name": "Soil Testing and Assessment",
+      "description": "Evaluation of soil quality and fertility for farming suitability.",
+      "required_documents": ["Land Ownership Proof", "Soil Sample"]
+    },
+    {
+      "id": 4,
+      "name": "Zoning and Land Use Approval",
+      "description": "Verification of farm land zoning for agricultural activities.",
+      "required_documents": ["Zoning Certificate", "Survey Report"]
+    },
+    {
+      "id": 5,
+      "name": "Water Rights and Irrigation Permits",
+      "description": "Approval for using water sources for irrigation on registered farm land.",
+      "required_documents": ["Water Use License", "Irrigation Plan"]
+    },
+    {
+      "id": 6,
+      "name": "Subsidy and Grant Applications",
+      "description": "Application for government financial assistance for registered farms.",
+      "required_documents": ["Farm Registration Certificate", "Business Plan"]
+    },
+    {
+      "id": 7,
+      "name": "Environmental Impact Assessment",
+      "description": "Assessment of the environmental effects of agricultural activities on registered farm land.",
+      "required_documents": ["EIA Report", "Land Registration Proof"]
+    }
+  ]
+}
